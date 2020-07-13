@@ -1,2 +1,8 @@
-# cloudpakforintegrationbadge
-IBM Cloud Pak for Integration - Series Techtalk and Handson
+# IBM Cloud Pak for Integration - Series Techtalk and Handson
+
+
+## Tech Talk Slides
+
+## Lab content
+
+## Workshop content
