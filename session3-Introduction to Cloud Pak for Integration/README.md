@@ -1,12 +1,12 @@
 
 # Cloud Pak For Integration Introduction
 ## Agenda 
-  ### Login to Demo Environment
-  ### Browse through Environment
-  ### Check Existing Instance
-  ### Browse Navigation and check openshift cluster (check existing namespace check how to go to navigation dashabord from openshift console)
-  ### Browse Navigation and check Monitoring (Grafana)
-  ### Check Logging (ELK)
+  ##### Login to Demo Environment
+  ##### Browse through Environment
+  ##### Check Existing Instance
+  ##### Browse Navigation and check openshift cluster (check existing namespace check how to go to navigation dashabord from openshift console)
+  ##### Browse Navigation and check Monitoring (Grafana)
+  ##### Check Logging (ELK)
   
 ## Introduction
 This is a small lab just to to get aquainted with cloud pak for integration environment
@@ -38,4 +38,18 @@ On demo dektop , used saved link to login to CP4I console. Provide user password
 
 ### 6 Logging and monitoring are part of common services provided bundles with CP4I
 Go to Navigation pane and click on Monitoring . You will be redirected to Grafana dashboard
+<img src="./img/grafana1.png"/>
+
+You can alwasy monitor based on pods and namespace click on kubernetes pod overview
+<img src="./img/grafana2.png"/>
+
+Now select ace in namespace and select specific pod You can monitor details about specific pod in any project 
+<img src="./img/grafana3.png"/>
+
+### 7. Logging using kibana
+From Navigation pane click on logging. This will take you to kibana dashboard
+<img src="./img/log1.png"/>
+
+Again you can check specifc project by selecting appropriate resources from left hand selection pane
+<img src="./img/log3.png"/>
 
