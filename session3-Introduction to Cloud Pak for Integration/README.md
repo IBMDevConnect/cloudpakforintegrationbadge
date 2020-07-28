@@ -9,7 +9,7 @@
  6) Check Logging (ELK)
   
 ## Introduction
-This is a small lab just to to get aquainted with cloud pak for integration environment
+This is a basic lab just to to get aquainted with cloud pak for integration environment
 
 ### 1. Login to demo Environment:
 On demo dektop , used saved link to login to CP4I console. Provide user password 
