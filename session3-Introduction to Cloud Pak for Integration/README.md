@@ -1,12 +1,12 @@
 
 # Cloud Pak For Integration Introduction
 ## Agenda 
-  ##### Login to Demo Environment
-  ##### Browse through Environment
-  ##### Check Existing Instance
-  ##### Browse Navigation and check openshift cluster (check existing namespace check how to go to navigation dashabord from openshift console)
-  ##### Browse Navigation and check Monitoring (Grafana)
-  ##### Check Logging (ELK)
+ 1) Login to Demo Environment
+ 2) Browse through Environment
+ 3) Check Existing Instance
+ 4)  Browse Navigation and check openshift cluster (check existing namespace check how to go to navigation dashabord from openshift console)
+ 5) Browse Navigation and check Monitoring (Grafana)
+ 6) Check Logging (ELK)
   
 ## Introduction
 This is a small lab just to to get aquainted with cloud pak for integration environment
@@ -28,15 +28,16 @@ On demo dektop , used saved link to login to CP4I console. Provide user password
 
 <img src="./img/4openshift.png"/>
 
-#### serach for integartion project 
+#### Search for integartion project 
 <img src="./img/integration.png"/>
+
 #### click on integration , and scroll down for inventory. Inventory provides the details about the resources that are part of given project
 <img src="./img/integration2.png"/>
 
 #### Click on route to see service that is exposed as a route . Navigation routes provides you direct access to CP4I environment. When you click on location you will land in CP4I homepage
 <img src="./img/integration3.png"/>
 
-### 6 Logging and monitoring are part of common services provided bundles with CP4I
+### 6. Logging and monitoring are part of common services provided bundles with CP4I
 Go to Navigation pane and click on Monitoring . You will be redirected to Grafana dashboard
 <img src="./img/grafana1.png"/>
 
