@@ -70,9 +70,9 @@ Create a Property name “Name”
 
 <img src="./img/api3.png"/>
 
-Select Operation as retrieve SFTP with file and click on implement flow
+Select Operation as create SFTP with file and click on implement flow
 <img src="./img/api4.png"/>
-<img src="./img/api5.png"/>
+
 
 Click on plus sign and search for SFTP in application. Select retrieve file content
 
