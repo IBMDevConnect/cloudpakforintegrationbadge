@@ -2,7 +2,7 @@
 
 # Introduction
 Indian Banking industry used SFTP protocol for all file exchange. This use case is related with one of the financial institution where it was required to receive the file via SFTP . The file was encrypted, and same file was supposed to be pushed to Object storage on cloud. 
-For this workshop we will receive a csv file and each row of the csv file should be inserted as a separate document in IBM Object storage
+For this workshop we will receive a  file and the file should be pushed to IBM Object storage
 
 # Agenda
 1. Create App connect Instance
