@@ -79,4 +79,48 @@ Click on plus sign and search for SFTP in application. Select retrieve file cont
 <img src="./img/api6.png"/>
 <img src="./img/api7.png"/>
 
+Click on done at top right corner
+<img src="./img/api18.png"/>
+Click On manage now 
+<img src="./img/api19.png"/>
+
+Uncheck authentication
+<img src="./img/api21.png"/>
+
+Scroll at the end and create apikey and documentation
+<img src="./img/api22.png"/>
+
+<img src="./img/api23.png"/>
+<img src="./img/api26.png"/>
+
+Copy the link and api key from here
+
+
+Start the API 
+<img src="./img/api24.png"/>
+
+<img src="./img/api25.png"/>
+
+Now open the new console in the browser and copy the link copied above
+
+<img src="./img/api26.png"/>
+
+<img src="./img/api28.png"/>
+
+Go to POST/SFTP and click on try it 
+In the client id paste the key copied above and use this in generator and click on send 
+{
+  "Name": "/readme.txt"
+}
+Please note there is only one file at this SFTP location
+
+<img src="./img/api29.png"/>
+
+Once done you can verify same on Cloud object bucket
+
+<img src="./img/api30.png"/>
+
+
+
+
 
